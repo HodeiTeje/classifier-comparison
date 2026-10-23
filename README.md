@@ -17,6 +17,4 @@ A small machine learning project to learn the usage of basic ML libraries such a
 - scikit-learn
 - Matplotlib
 
-## Project status
 
-Initial setup. Model implementation and experiments are planned for the next usage.
